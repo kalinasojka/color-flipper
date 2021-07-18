@@ -1,4 +1,7 @@
-This is a colour flipper website written by me with the help of the tutorial by freeCodeCamp https://www.youtube.com/watch?v=3PHXvlpOkf4 .
+This is a colour flipper website written by me, inspired by the tutorial by freeCodeCamp https://www.youtube.com/watch?v=3PHXvlpOkf4 .
 
--The css is completely my own.
+The only code I replicated from the tutorial are JavaScript functions for HTML and Hex colors, but I understand them.
+
+Everything else is my own work, including the RGB site along with its JavaScript.
+
 
